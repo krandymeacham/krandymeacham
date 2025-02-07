@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning and implementing the Databricks platform (on Azure) to transition many of our ETL workflows from ADF/EDW to the Delta Lake/Databricks. I'm also continuously improving my use of Python, SQL, and other tools to minimize memory consumption and effectively store and retrieve data. 
 - 💞️ I’m looking to collaborate on anything data or software engineering related to make this world a better place. 
 - 📫 How to reach me - LinkedIn (Randy Meacham) Email - randy.meacham@stjude.org
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have four amazing sons that help guide my decisions to assist in making this world a better place for them and future generations. 
 
 <!---
